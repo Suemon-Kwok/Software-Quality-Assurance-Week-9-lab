@@ -1,0 +1,11 @@
+H:\Year 2\Semester 2\Software quality assurance\Week 9\SQA_Week_9_TDD_lab\Week09QualityLab\Week09QualityLab\Week09QualityLab.Core\bin\Debug\net10.0\Week09QualityLab.Core.deps.json
+H:\Year 2\Semester 2\Software quality assurance\Week 9\SQA_Week_9_TDD_lab\Week09QualityLab\Week09QualityLab\Week09QualityLab.Core\bin\Debug\net10.0\Week09QualityLab.Core.dll
+H:\Year 2\Semester 2\Software quality assurance\Week 9\SQA_Week_9_TDD_lab\Week09QualityLab\Week09QualityLab\Week09QualityLab.Core\bin\Debug\net10.0\Week09QualityLab.Core.pdb
+H:\Year 2\Semester 2\Software quality assurance\Week 9\SQA_Week_9_TDD_lab\Week09QualityLab\Week09QualityLab\Week09QualityLab.Core\obj\Debug\net10.0\Week09QualityLab.Core.GeneratedMSBuildEditorConfig.editorconfig
+H:\Year 2\Semester 2\Software quality assurance\Week 9\SQA_Week_9_TDD_lab\Week09QualityLab\Week09QualityLab\Week09QualityLab.Core\obj\Debug\net10.0\Week09QualityLab.Core.AssemblyInfoInputs.cache
+H:\Year 2\Semester 2\Software quality assurance\Week 9\SQA_Week_9_TDD_lab\Week09QualityLab\Week09QualityLab\Week09QualityLab.Core\obj\Debug\net10.0\Week09QualityLab.Core.AssemblyInfo.cs
+H:\Year 2\Semester 2\Software quality assurance\Week 9\SQA_Week_9_TDD_lab\Week09QualityLab\Week09QualityLab\Week09QualityLab.Core\obj\Debug\net10.0\Week09QualityLab.Core.csproj.CoreCompileInputs.cache
+H:\Year 2\Semester 2\Software quality assurance\Week 9\SQA_Week_9_TDD_lab\Week09QualityLab\Week09QualityLab\Week09QualityLab.Core\obj\Debug\net10.0\Week09QualityLab.Core.dll
+H:\Year 2\Semester 2\Software quality assurance\Week 9\SQA_Week_9_TDD_lab\Week09QualityLab\Week09QualityLab\Week09QualityLab.Core\obj\Debug\net10.0\refint\Week09QualityLab.Core.dll
+H:\Year 2\Semester 2\Software quality assurance\Week 9\SQA_Week_9_TDD_lab\Week09QualityLab\Week09QualityLab\Week09QualityLab.Core\obj\Debug\net10.0\Week09QualityLab.Core.pdb
+H:\Year 2\Semester 2\Software quality assurance\Week 9\SQA_Week_9_TDD_lab\Week09QualityLab\Week09QualityLab\Week09QualityLab.Core\obj\Debug\net10.0\ref\Week09QualityLab.Core.dll
